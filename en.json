@@ -1,0 +1,18 @@
+{
+    "en": {
+      "Checking":"Checking for Updates",
+      "Register":"Register",
+      "Login":"Login",
+      "addMenu": "Add Menu",
+      "addFeedback": "Add Feedback",
+      "addDecor": "Add Decor",
+      "spaceInUsername": "Space in Username",
+      "usernameEmpty": "Incorrect username or password",
+      "Username":"Username",
+      "incorrectUserPassword": "Incorrect username or password",
+      "userExist": "User already exists",
+      "Azwin": "azwin",
+      "high": "High",
+      "low": "Low"}
+    }
+   
