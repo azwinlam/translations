@@ -28,6 +28,8 @@
   "welcome": "歡迎",
   "Password": "密碼",
   "Username": "用戶名",
+  "ConfirmPassword": "確認密碼",
+  "PasswordCriteria": "最少8個字符",
   "invalidEmail": "電子郵件地址格式錯誤",
   "passwordDoNotMatch": "密碼不一樣",
   "usernameSpace": "用戶名有空格",
