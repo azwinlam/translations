@@ -1,5 +1,9 @@
 {
   "en": {
+    "Back":"Back",
+    "PleaseLogInFinger":"Please Log In to Enable Fingerprint Sign On",
+    "AlreadyAccount":"Already have an account?",
+    "ForgotPassword":"Forgot Password?",
     "DontHaveAccount": "Don't have an account?",
     "Checking": "Checking for Updates",
     "Register": "Register",

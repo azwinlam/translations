@@ -1,4 +1,8 @@
 {"zh": {
+  "Back":"退回",
+  "PleaseLogInFinger":"請登錄以啟用指紋登錄",
+  "AlreadyAccount":"已經有帳戶？",
+  "ForgotPassword":"忘記密碼?",
   "DontHaveAccount": "沒有帳戶?",
   "Checking": "等待更新",
   "Register": "登記",
