@@ -1,5 +1,11 @@
 {
   "en": {
+    "Code":"Code",
+    "ReqeustCode":"Request Code",
+    "PleaseWait":"Please Wait",
+    "ResetPassword":"Reset Password",
+    "Updating":"Updating...",
+    "WillRestart":"App will restart after update completes",
     "Back":"Back",
     "PleaseLogInFinger":"Please Log In to Enable Fingerprint Sign On",
     "AlreadyAccount":"Already have an account?",
